@@ -4,3 +4,4 @@
 ## Date: 2021.10.12
 
 The objective is to predict pressure from several features in a timeseries of several patients.
+This approach used XGBOOST regression to perform pressure prediction.
